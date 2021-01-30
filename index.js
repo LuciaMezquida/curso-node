@@ -1,6 +1,6 @@
 //importo la libreria de express y la meto en una constante
 const express = require("express");
-//libreria que recoge los datos
+//libreria que permite el acceso a la recogida de los datos
 const bodyParser = require("body-parser");
 const app = express();
 
